@@ -10,4 +10,4 @@ While this is a basic, guided project, it helped me get more comfortable with st
 If I revisit this later, I’d like to personalize it (maybe about my cat, Cinderella 🐾) and add CSS styling.  
 
 ---
-🙌 *This is my first repository on GitHub!*
+🙌 *This is my first repository on GitHub!*  
